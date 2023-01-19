@@ -20,3 +20,7 @@ def getTestData(request):
 
 def git_test():
     return None
+
+    
+def git_test2():
+    return None
